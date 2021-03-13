@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/wandibot"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> <br>
-  <a href="https://wa.me/+62887435047326"><img src="https://img.shields.io/badge/-Whatsapp-black?style=flat-square&logo=WhatsApp" />
+  <a href="https://wa.me/message/UA3KB4AU2UJMB1"><img src="https://img.shields.io/badge/-Whatsapp-black?style=flat-square&logo=WhatsApp" />
   <a href="https://www.facebook.com/profile.php?id=100015526687857"><img src="https://img.shields.io/badge/-Facebook-black?style=flat-square&logo=Facebook" />
   <a href="https://t.me/Riswan1201"><img src="https://img.shields.io/badge/-Telegram-black?style=flat-square&logo=Telegram" />
   <a href="https://instagram.com/zee.oneee"><img src="https://img.shields.io/badge/-Instagram-black?style=flat-square&logo=instagram"/> 
