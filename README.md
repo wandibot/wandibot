@@ -3,7 +3,7 @@
   <img src="https://i.ibb.co/XV5NJRw/TEST-20210312-100328.jpg" />
 </p>
 
-<h1 align="center"> 𝕮𝖔𝖓𝖓𝖊𝖈𝖙 𝖜𝖎𝖙𝖍 𝖒𝖊👇
+<h1 align="center"> 𝕮𝖔𝖓𝖓𝖊𝖈𝖙 𝖜𝖎𝖙𝖍 𝖒𝖊
 <p align="center">
   <a href="https://instagram.com/zee.oneee"><img src="https://img.shields.io/badge/-Instagram-black?style=flat-square&logo=instagram"/> 
   <a href="https://wa.me/message/UA3KB4AU2UJMB1"><img src="https://img.shields.io/badge/-Whatsapp-black?style=flat-square&logo=WhatsApp" />
