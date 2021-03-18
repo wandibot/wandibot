@@ -3,9 +3,9 @@
   <img src="https://i.ibb.co/XV5NJRw/TEST-20210312-100328.jpg" />
 </p>
 
-<h1 align="left">☘️My name is Riswandi
-<h1 align="left">☘️I am 17 years old 
-<h1 align="left">☘️I am a high school student
+- ☘️ My name is Riswandi
+- ☘️ I am 17 years old 
+- ☘️ I am a high school student
 
 <h1 align="center"> 𝕮𝖔𝖓𝖓𝖊𝖈𝖙 𝖜𝖎𝖙𝖍 𝖒𝖊
 <p align="center">
